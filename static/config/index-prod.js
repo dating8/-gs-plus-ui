@@ -4,7 +4,7 @@
 ;(function () {
   window.SITE_CONFIG = {}
 
-  window.SITE_CONFIG['baseUrl'] = 'http://192.168.6.55:9001/gs-admin'// 后台接口请求地址
+  window.SITE_CONFIG['baseUrl'] = 'http://xxx.xxx.x.xx:9001/gs-admin'// 后台接口请求地址
 
   // cdn地址 = 域名 + 版本号
   // window.SITE_CONFIG['domain'] = 'https://platform-wxmall.oss-cn-beijing.aliyuncs.com/boot/' // 域名
