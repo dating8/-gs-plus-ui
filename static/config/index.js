@@ -5,7 +5,7 @@
   window.SITE_CONFIG = {}
 
   // api接口请求地址
-  window.SITE_CONFIG['baseUrl'] = 'http://192.168.6.55:9001/gs-admin'
+  window.SITE_CONFIG['baseUrl'] = 'http://xxx.xxx.x.xx:9001/gs-admin'
 
   // cdn地址 = 域名 + 版本号
   window.SITE_CONFIG['domain'] = './' // 域名
