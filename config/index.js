@@ -14,7 +14,7 @@ module.exports = {
     // 代理列表, 是否开启代理通过[./dev.env.js]配置
     proxyTable: devEnv.OPEN_PROXY === false ? {} : {
       '/gs-admin': {
-        target: 'http://192.168.6.55:9001/gs-admin',
+        target: 'http://xxx.xxx.x.xx:9001/gs-admin',
         changeOrigin: true,
         pathRewrite: {
           '^/gs-admin': '/'
